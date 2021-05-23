@@ -1,0 +1,16 @@
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.exe
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.deps.json
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.runtimeconfig.json
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.runtimeconfig.dev.json
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.dll
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\ref\LinqMethods.dll
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\bin\Debug\net5.0\LinqMethods.pdb
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.csprojAssemblyReference.cache
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.AssemblyInfoInputs.cache
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.AssemblyInfo.cs
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.dll
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\ref\LinqMethods.dll
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.pdb
+C:\Users\RaviMakwana\Desktop\LinqMethods\LinqMethods\obj\Debug\net5.0\LinqMethods.genruntimeconfig.cache
